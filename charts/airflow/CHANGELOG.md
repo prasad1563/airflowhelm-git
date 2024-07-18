@@ -8,6 +8,10 @@ This project follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html) 
 
 TBD
 
+## [8.9.1] - 2024-07-18
+
+TBD
+
 ## [8.9.0] - 2024-04-30
 
 > 🟨 __NOTES__ 🟨
@@ -811,7 +815,8 @@ TBD
 >
 > - To read about versions `7.0.0` and before, please see the [legacy repo](https://github.com/helm/charts/tree/master/stable/airflow).
 
-[Unreleased]: https://github.com/airflow-helm/charts/compare/airflow-8.9.0...HEAD
+[Unreleased]: https://github.com/airflow-helm/charts/compare/airflow-8.9.1...HEAD
+[8.9.1]: https://github.com/airflow-helm/charts/compare/airflow-8.9.0...airflow-8.9.1
 [8.9.0]: https://github.com/airflow-helm/charts/compare/airflow-8.8.0...airflow-8.9.0
 [8.8.0]: https://github.com/airflow-helm/charts/compare/airflow-8.7.1...airflow-8.8.0
 [8.7.1]: https://github.com/airflow-helm/charts/compare/airflow-8.7.0...airflow-8.7.1
